@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AutoTestSolution": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
